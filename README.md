@@ -9,9 +9,9 @@ Storage solution for Wingspan and its European &amp; Oceania expansions, fitting
 5.Card display stand *also a cover for cards container<br>
 
 # Whats exclude
-egg nest；action cubes container；goal tiles container；
+egg nest；action cubes container；goal tiles container；<br>
 *just find them around you ：）
-
+<br>
 <img src="images/preview1.jpeg" alt="Wingspan Storage Design" width="500">
 <img src="images/preview6.jpeg" alt="Wingspan Storage Design" width="500">
 <img src="images/preview2.jpeg" alt="Wingspan Storage Design" width="500">
