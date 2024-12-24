@@ -2,7 +2,10 @@
 Storage solution for Wingspan and its European &amp; Oceania expansions, fitting into the base game box. Made with laser-cut wood panels.<br>
 
 # Notification
-Due to the ultimate optimization of space, this system includes only three player mats.<br>
+1.Due to the ultimate optimization of space, this system includes only three player mats.<br>
+2.The dice tower can be made separately, as it has been split into an independent file.<br>
+3.Use 5mm and 3mm wood panels as specified, check the file names for reference.<br>
+4.Cut along the white lines and engrave the red lines.<br>
 
 # Whats include
 1.Cards container<br>
