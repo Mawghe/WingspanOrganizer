@@ -6,6 +6,8 @@ Storage solution for Wingspan and its European &amp; Oceania expansions, fitting
 2.The dice tower can be made separately, as it has been split into an independent file.<br>
 3.Use 5mm and 3mm wood panels as specified, check the file names for reference.<br>
 4.Cut along the white lines and engrave the red lines.<br>
+5.Use specialized glue for assembly.<br>
+6.The pre-cut holes are for magnetic extensions. You can choose suitable magnets to assemble, but no additional accessories are provided.<br>
 
 # Whats include
 1.Cards container<br>
@@ -15,10 +17,9 @@ Storage solution for Wingspan and its European &amp; Oceania expansions, fitting
 5.Card display stand *also a cover for cards container<br>
 
 # Whats exclude
-egg nest；action cubes container；goal tiles container；<br>
+egg nest；action cubes container；goal tiles container；magnets；<br>
 *just find them around you ：）
 <br>
-
 
 <img src="images/preview1.jpeg" alt="Wingspan Storage Design" width="500">
 <img src="images/preview6.jpeg" alt="Wingspan Storage Design" width="500">
