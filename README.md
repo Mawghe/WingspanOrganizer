@@ -24,6 +24,6 @@ egg nest；action cubes container；goal tiles container；magnets；<br>
 <img src="images/preview1.jpeg" alt="Wingspan Storage Design" width="500">
 <img src="images/preview6.jpeg" alt="Wingspan Storage Design" width="500">
 <img src="images/preview2.jpeg" alt="Wingspan Storage Design" width="500">
-<img src="images/preview5.jpeg" alt="Wingspan Storage Design" width="500">
 <img src="images/preview4.jpeg" alt="Wingspan Storage Design" width="500">
 <img src="images/preview3.jpeg" alt="Wingspan Storage Design" width="300">
+<img src="images/preview07.jpg" alt="Wingspan Storage Design" width="500">
